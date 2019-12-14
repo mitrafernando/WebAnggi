@@ -29,25 +29,25 @@
 						<div class="tab-content">
 							<div class="tab-pane fade in active" id="tab-bottom-left1">
                             <label>Name</label>
-                            <input class="form-control" placeholder="Default input" type="text" id="name">
+                            <input class="form-control" placeholder="Name" type="text" id="name">
                             <br>
                             <label>Gender</label>
-                            <input class="form-control" placeholder="Default input" type="text" id="gender">
+                            <input class="form-control" placeholder="Gender" type="text" id="gender">
                             <br>
                             <label>Address</label>
-                            <input class="form-control" placeholder="Default input" type="text" id="address">
+                            <input class="form-control" placeholder="Address" type="text" id="address">
                             <br>
                             <label>Email</label>
-                            <input class="form-control" placeholder="Default input" type="email" id="email">
+                            <input class="form-control" placeholder="Email" type="email" id="email">
                             <br>
                             <label>Date Of Birth</label>
-                            <input class="form-control" placeholder="Default input" type="text" id="dob">
+                            <input class="form-control" placeholder="Date Of Birth" type="text" id="dob">
                             <br>
                             <label>Age</label>
-                            <input class="form-control" placeholder="Default input" type="text" id="age">
+                            <input class="form-control" placeholder="Age" type="text" id="age">
                             <br>
                             <label>Phone Number</label>
-                            <input class="form-control" placeholder="Default input" type="text" id="phone">
+                            <input class="form-control" placeholder="Phone Number" type="text" id="phone">
                             <br>
 							</div>
 						</div>
